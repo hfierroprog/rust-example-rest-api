@@ -1,6 +1,5 @@
 ## API REST EXAMPLE WITH RUST AND ACTIX
 
-<br>
 
 #### First run the proyect with command
 ```
